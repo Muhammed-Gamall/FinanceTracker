@@ -1,1 +1,2 @@
 # FinanceTracker
+ A comprehensive and easy-to-use finance tracker project designed to help you manage your personal finances effectively. This project allows you to track your total funds, monthly income, and set budgets for various categories like food, education, and more. Key Features: - Comprehensive financial tracking including total funds and monthly income. - Customizable budget setting for different categories. - Detailed reports on monthly spending and remaining budget. - Full CRUD operations for managing financial data. - Secure login and sign-up functionalities.
