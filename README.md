@@ -1,11 +1,11 @@
 # FinanceTracker
  A comprehensive and easy-to-use finance tracker project designed to help you manage your personal finances effectively. This project allows you to track your total funds, monthly income, and set budgets for various categories like food, education, and more. 
 ## Key Features:
- - Comprehensive financial tracking including total funds and monthly income.
- - - Customizable budget setting for different categories.
-   - - Detailed reports on monthly spending and remaining budget.
-     -  - Full CRUD operations for managing financial data.
-          - - Secure login and sign-up functionalities.
+- Comprehensive financial tracking including total funds and monthly income.
+- Customizable budget setting for different categories.
+- Detailed reports on monthly spending and remaining budget.
+- Full CRUD operations for managing financial data.
+- Secure login and sign-up functionalities.
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dot-net&logoColor=512BD4)&nbsp;
